@@ -24,7 +24,7 @@ If you are using a tower, ensure cooling will not be an issue. A 12 hour LAN eve
 
 - 1500+ users: CPU: > 4 Cores/RAM: >= 4 GB/HD: 80 GB
 
-- Two network cards
+- Two network cards (NIC)
 
 ### Step 2. 
 The first step of installing Untangle NG Firewall is to download the ISO from their website. (You only have a 15 day trial for untangle, so set it up to get farmiliar with it. Then closer to the date of your LAN, reinstall it to get the trial renewed.)
